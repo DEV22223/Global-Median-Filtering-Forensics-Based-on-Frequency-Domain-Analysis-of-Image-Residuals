@@ -1,0 +1,15 @@
+Code Requirements:
+Import | Pip Installation Command | PyPI Package Name
+os | Built-in module | -
+cv2 | pip install opencv-python | opencv-python
+numpy | pip install numpy | numpy
+scipy.stats | pip install scipy | scipy
+sklearn.svm, sklearn.model_selection, etc. | pip install scikit-learn | scikit-learn
+matplotlib.pyplot | pip install matplotlib | matplotlib
+tqdm | pip install tqdm | tqdm
+skimage.util, skimage.transform | pip install scikit-image | scikit-image
+pandas | pip install pandas | pandas
+seaborn | pip install seaborn | seaborn
+itertools | Built-in module | -
+
+System Requirements:T4-GPU(Google colab)
